@@ -2,7 +2,7 @@
 
 Hello Fronds.
 
-![Dance](images/1.gif)
+![Dance](img/1.gif)
 
 
 
